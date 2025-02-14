@@ -1,0 +1,7 @@
+pyfpgrowth
+networkx
+matplotlib.pyplot
+pandas
+random
+collections
+tabulate
