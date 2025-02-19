@@ -1,7 +1,6 @@
 pyfpgrowth
 networkx
-matplotlib.pyplot
+matplotlib
 pandas
-random
-collections
+numpy
 tabulate
